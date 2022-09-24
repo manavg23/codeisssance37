@@ -5,6 +5,8 @@
 ----------------------------------*/
 body {
     background-image: url('../images/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .spinnerContainer {
@@ -94,7 +96,7 @@ body {
 #tracker-top,
 #tracker-results p {
     padding: 0 6px 0 6px;
-    color:blanchedalmond;
+    color:blanchedalmond !important;
 }
 
 /* START
